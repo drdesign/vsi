@@ -1,0 +1,50 @@
+13.05.2015 - ver 1.3.6
+	- Fix bug with ajax domain search whois.
+		+ Edit plugin ThemeStudio Shortcodes : (plugins/themestudio-shortcodes-v1.0/inc/whois/AjaxWhois.php)
+	- Fix css in tempalte alaskawhmcs,css parallax.
+	- Add autoplay for slide testimonial.
+	- Update Visual composer 4.5.2.
+13.05.2015 - ver 1.3.5
+	- Update font Awesome 4.3.0.
+	- Fix sercurity : Remove file errors.php from theme.
+	- Fix multi language for plugin ThemeStudio Shortcodes: 
+		+ fix multi language for shortcode lasted post.(plugins/themestudio-shortcodes-v1.0/inc/themestudio.shortcode.class.php)				
+
+08.05.2015 - ver 1.3.4
+	- Fix bug with ajax domain search.
+	- Remove exploit file from theme : file index.inc.php	
+
+06.05.2015 - ver 1.3.2	
+	- Update Visual Composer  4.5.1.
+	- Update class-tgm-plugin-activation 2.4.2
+	- Update bug for call to action top footer.
+26.04.2015 - ver 1.3.1
+	- Fix minor bugs
+	- Update all plugins to newest version
+	- Update Woocommece suppor newest version
+	- Update  Themes Security Vulnerability which is mentioned here http://marketblog.envato.com/news/wordpress-item-security-vulnerability/
+28.03.2015 - ver 1.3
+	- Fix bug install required plugin error.
+	- Fix minor css bug
+	- Make better document
+	- Support WhmPress
+	- Update alaska theme option to show/hide some elements
+	- Update alaska order form
+	- Update pricing table with cross/check feature
+	- Update show/hide top footer(email,phone,chat)
+	- Update newest version of all needed plugins
+	- Update woocommerce templates	
+03.02.2015 - ver 1.2 
+	- Fix problem with megamenu
+	- Remove unused javascript code
+	- Included PSDs
+	- Add new comparison table shortcode
+	- Fix minor responsive css bug	
+01.02.2015 - ver 1.1
+	- Add new header style with background support
+	- Add 3 new homepage 6,7,8
+	- Add 3 new pricing table
+	- Add feature icon using image 
+	- Add new list shortcode
+	- Add new feature box shortcode
+	- Fix minor css bug	

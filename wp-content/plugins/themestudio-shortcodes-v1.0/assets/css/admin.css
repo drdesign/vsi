@@ -1,0 +1,11 @@
+/*************************
+ * Admin style for plugin
+ *************************/
+ 
+.themestudio-order-post-form { }
+.themestudio-order-post-form .grid-item { background:#dedede; margin:5px 15px 5px 0px; padding:5px; cursor:pointer; }
+.themestudio-order-post-form .grid-item .thumb { width:64px; height:64px; background:#cdcdcd; }
+.themestudio-order-post-form .grid-item  > * { vertical-align:middle; display:inline-block; margin-right:25px;  }
+.themestudio-order-post-form .grid-item.ui-sortable-helper { cursor:move; background:#eeeeee; }
+
+
